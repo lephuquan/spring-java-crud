@@ -16,7 +16,7 @@
 </style>
 </head>
 <body>
-<p style="color: #848484">I am a retest student. Because I have a lot of time, I do more updates and deletes for prestige. hope you don't deduct my points</p>
+
 	<div class="container">
 		<h1 style="text-align: center;">List All News</h1>
 		<br />
